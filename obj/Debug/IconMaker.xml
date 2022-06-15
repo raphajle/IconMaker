@@ -22,5 +22,15 @@ IconMaker
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:IconMaker.My.Resources.Resources._404">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IconMaker.My.Resources.Resources.icons8_user_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 </members>
 </doc>

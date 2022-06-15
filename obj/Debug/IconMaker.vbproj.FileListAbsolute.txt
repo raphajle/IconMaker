@@ -9,3 +9,4 @@ C:\Users\rapha\Dropbox\RAPHA\GITWORKS\IconMaker\obj\Debug\IconMaker.vbproj.CoreC
 C:\Users\rapha\Dropbox\RAPHA\GITWORKS\IconMaker\obj\Debug\IconMaker.exe
 C:\Users\rapha\Dropbox\RAPHA\GITWORKS\IconMaker\obj\Debug\IconMaker.xml
 C:\Users\rapha\Dropbox\RAPHA\GITWORKS\IconMaker\obj\Debug\IconMaker.pdb
+C:\Users\rapha\Dropbox\RAPHA\GITWORKS\IconMaker\obj\Debug\IconMaker.vbproj.AssemblyReference.cache
