@@ -1,5 +1,5 @@
-﻿Imports System.IO
-Imports System.Drawing.Imaging
+﻿Imports System.Drawing.Imaging
+Imports System.IO
 
 Public Class Form1
     Public Sub ConvertToIco(ByVal openimage As Bitmap, ByVal icoName As String, ByVal Icon_size As Integer)
@@ -32,12 +32,16 @@ Public Class Form1
     End Sub
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         selectImage()
+        If OpenFileDialog1.FileName = "" Then
+            End
+        End If
     End Sub
 
     Function selectImage() As String
+        OpenFileDialog1.Filter = "IMAGE | *.jpg;*.png;*.jpeg;*.bmp | Tous les fichiers | *.*"
         If OpenFileDialog1.ShowDialog() = DialogResult.OK Then
             Try
-                PictureBox1.ImageLocation = OpenFileDialog1.FileName
+                PictureBox1.Image = Image.FromFile(OpenFileDialog1.FileName)
                 TextBox1.Text = OpenFileDialog1.FileName
             Catch ex As Exception
                 MsgBox(ex.Message, MsgBoxStyle.Exclamation)

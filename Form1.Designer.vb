@@ -42,10 +42,10 @@ Partial Class Form1
         Me.Panel1.Controls.Add(Me.NumericUpDown1)
         Me.Panel1.Controls.Add(Me.Button1)
         Me.Panel1.Dock = System.Windows.Forms.DockStyle.Bottom
-        Me.Panel1.Location = New System.Drawing.Point(20, 352)
+        Me.Panel1.Location = New System.Drawing.Point(20, 353)
         Me.Panel1.Name = "Panel1"
         Me.Panel1.Padding = New System.Windows.Forms.Padding(20)
-        Me.Panel1.Size = New System.Drawing.Size(555, 72)
+        Me.Panel1.Size = New System.Drawing.Size(555, 71)
         Me.Panel1.TabIndex = 1
         '
         'TextBox1
@@ -78,14 +78,10 @@ Partial Class Form1
         Me.Button1.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button1.Location = New System.Drawing.Point(391, 20)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(144, 32)
+        Me.Button1.Size = New System.Drawing.Size(144, 31)
         Me.Button1.TabIndex = 0
         Me.Button1.Text = "CREER"
         Me.Button1.UseVisualStyleBackColor = True
-        '
-        'OpenFileDialog1
-        '
-        Me.OpenFileDialog1.FileName = "OpenFileDialog1"
         '
         'Panel2
         '
@@ -94,7 +90,7 @@ Partial Class Form1
         Me.Panel2.Location = New System.Drawing.Point(20, 20)
         Me.Panel2.Name = "Panel2"
         Me.Panel2.Padding = New System.Windows.Forms.Padding(10)
-        Me.Panel2.Size = New System.Drawing.Size(555, 332)
+        Me.Panel2.Size = New System.Drawing.Size(555, 333)
         Me.Panel2.TabIndex = 2
         '
         'PictureBox1
@@ -105,7 +101,7 @@ Partial Class Form1
         Me.PictureBox1.Dock = System.Windows.Forms.DockStyle.Fill
         Me.PictureBox1.Location = New System.Drawing.Point(10, 10)
         Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(535, 312)
+        Me.PictureBox1.Size = New System.Drawing.Size(535, 313)
         Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
         Me.PictureBox1.TabIndex = 0
         Me.PictureBox1.TabStop = False

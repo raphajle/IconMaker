@@ -10,3 +10,7 @@ C:\Users\rapha\Dropbox\RAPHA\GITWORKS\IconMaker\obj\Debug\IconMaker.exe
 C:\Users\rapha\Dropbox\RAPHA\GITWORKS\IconMaker\obj\Debug\IconMaker.xml
 C:\Users\rapha\Dropbox\RAPHA\GITWORKS\IconMaker\obj\Debug\IconMaker.pdb
 C:\Users\rapha\Dropbox\RAPHA\GITWORKS\IconMaker\obj\Debug\IconMaker.vbproj.AssemblyReference.cache
+C:\Users\rapha\Dropbox\RAPHA\GITWORKS\IconMaker\bin\Debug\IconMaker.exe.manifest
+C:\Users\rapha\Dropbox\RAPHA\GITWORKS\IconMaker\bin\Debug\IconMaker.application
+C:\Users\rapha\Dropbox\RAPHA\GITWORKS\IconMaker\obj\Debug\IconMaker.exe.manifest
+C:\Users\rapha\Dropbox\RAPHA\GITWORKS\IconMaker\obj\Debug\IconMaker.application
